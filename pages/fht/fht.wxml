@@ -1,0 +1,54 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 136rpx; top: 12rpx">一个越南革命烈士的归宿</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 范鸿泰墓，先后有两处墓址，原墓初葬在今广州市越秀区先烈路的二望岗，1925年1月由当时同情和钦佩范鸿泰的广州人义举修建而成，墓地东北西南朝向，烈士可于长眠之地长望故乡，以解烈士思乡念土之情。建国后，到了50年代中后期，广州市政府在全市范围进行新一轮的城市规划和公路扩建，范鸿泰墓所在地与当时城市道路规划相悖，市政府报请省委同意，决定将范鸿泰遗骸迁葬它处，后来，新墓选址在黄花岗七十二烈士墓后的太和岗，到1958年4月12日，新墓正式建成并举行了落成仪式，范鸿泰的遗孀、儿子等家属应邀参加庆典，越南劳动党高鸿岭作为越南党和政府的代表也出席了活动。
+
+    范鸿泰新墓，是由花岗石修筑而成，墓前竖立有墓碑，碑高三点二七米，碑身与锥形相似，上窄下宽，造型醒目；碑座有3层，底层面积为十二点九六平方米。墓碑正面锈刻中越对照文字“越南范鸿泰烈士之墓，出生于一八九二年，牺牲于一九二四年六月十九日，一九五八年二月二十四日，广州市人民委员会重建”。范鸿泰墓地一侧有一块用端石质材镌刻的范烈士墓表，长一点八米，高二点六米，记述烈士生平简历，该墓表属于原墓遗物，迁葬时从原墓被一起移来的。
+
+    范鸿泰（1892-1924），原名成绩，越南乂安人，祖父范中选和父亲范成美都参加过潘廷逢领导的香溪起义。范鸿泰从小就亲眼目睹了法国殖民主义者镇压这次起义的种种暴行，爱国志士被杀害，村庄被烧毁，财物被抢劫。这一切激起了范鸿泰对帝国主义的极端仇恨。范鸿泰早年加入越南青年革命同志会，是越南早期革命志士之一，因在中国刺杀法国驻越南总督麦林未遂投白鹅潭自沉而闻名中外。他的这次暗杀行动，导致英法帝国主义推出“新警律”，直接引发沙面工人大罢工。
+
+    1924年6月18日，印度支那总督马兰按期抵达广州进行访问，在越南革命组织“心心社”的帮助下，范鸿泰事先得知了马兰具体日程的安排，于是，当日并携带手枪在白鹅潭码头等候，准备趁马兰登岸时一举击毙，事与愿违的是马兰舰船一到码头，广东政府官员及好奇民众立刻凑前迎接和观看，范鸿泰举目四望，人头攒动的时况，打乱了他谋杀马兰的计划，因为如果当时选择射击的话，即使打中马兰本人，也会给周围无辜广东民众造成伤亡，于是，范鸿泰当场自主决定放弃了暗杀。
+
+    6月18下午，法国驻越南总督麦林在沙面法国领事馆举行茶话会，欢迎马兰到来，范鸿泰假扮成记者再次溜进了茶会现场，不幸的是，当时与会的嘉宾人数众多，宴会厅内到处人影晃动，范鸿泰判断短时间内举枪射击是难以瞄准目标的，同时，为了不伤及无辜，再次无奈放弃了刺杀机会。
+    
+    6月19日，范鸿泰再得新的刺杀良机，为表明暗杀决心，范亲笔含泪写了遗书——《告全世界人民》，临走之际，再给越南革命同志留下了“事成与否，固不可期，然吾誓不入法人之手”的遗言。当天，在越南革命组织“心心社”及中国革命者合力帮助下，范鸿泰再以新闻记者身份进入广州沙面维多利亚酒店（现今胜利宾馆），以投掷炸弹的方式行刺法国驻越南总督麦林，炸弹爆炸后当场就炸死炸伤其随从数人，麦林因为距离爆炸点稍远而侥幸逃脱。爆炸案发生后，周边的军警迅速出动，包围和追捕范鸿泰，在走投无路情况下，范鸿泰毅然决然地跳入了珠江白鹅潭，6月21日上午范鸿泰的遗体在珠江南堤河面附近被发现，三国警方闻讯联合验尸，确认了范鸿泰越南人的身份。因为范鸿泰的这次暗杀行为，沙面英法租界当局以此为借口，颁布侮辱中国人人格的“新警律”，从而引发沙面洋务工人大罢工，最终迫使沙面租界当局取消“新警律”。
+    今日，范鸿泰长眠于黄花岗烈士陵园之内，绿荫和花丛簇拥着烈士的墓地，墓前常年摆放着慕名而来的敬仰者供奉的时新的朵朵黄花，鲜花不萎，烈士的精神长存，他的故事也将长久地被铭记于神州辉煌的革命史册之中。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

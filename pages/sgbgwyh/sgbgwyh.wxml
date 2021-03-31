@@ -1,0 +1,56 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 188rpx; top: 15rpx">国际最长时间的罢工</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 在广州市东园横路3号，这里有一座“红楼”，原是清末广东水师提督李准的花园别墅，但是，这座“红楼”出名不是因为它的出身显贵或者建筑风格独特，而是国际工运史上坚持时间最长的罢工——“省港大罢工”的指挥部就设在这里。1925年5月30日，上海发生了“五卅”惨案。为抗议帝国主义制造的上海“五  卅”惨案，在中国共产党的领导下，6月19日，爆发了震撼中外的省港大罢工。首先发动的是苏兆征等领导的香港海员、电车、印刷等行业的工人，其他行业群起响应，仅15天内罢工人数即达25万。这个场景，跟1922年香港海员大罢工极其相似，当时苏兆征也是主要领导者之一。1925年6月21日，广州、香港各地工人也宣布罢工。罢工浪潮激荡着整个广州社会。
+
+    1925年6月23日，省港罢工工人和广州的工农商学兵各界共10万人集会东较场，大会提出收回租界、海关和取消一切不平等条约等要求。并于当天下午举行大游行，可是当游行队伍行至沙基西桥口的时候，沙面英国军警突然向游行队伍射击，停泊在白鹅潭的英、法、葡等国军舰也发炮轰击，由于事起仓促，路狭人稠，游行群众死伤惨重。酿成震惊中外的“沙基惨案”，又称“六二三惨案”（今天广州的六二三路也因此而命名）。
+
+    1925年7月3日，中华全国总工会省港罢工委员会在东园成立，为罢工最高领导机关。罢工工人清除东园的野草瓦砾，盖起了一座座葵蓬竹寮。由此，东园成为世界工运史上时间最长的罢工——省港大罢工的指挥部。罢工委员会以苏兆征、何耀全、林伟民、李启汉等13人为执行委员，苏兆征任委员长，何耀全等任副委员长。廖仲恺、邓中夏、黄平等受聘为顾问。罢工委员会下设干事局、法制局、审计局、会审处、财经委员会、监狱、医院、学校等办事处机构。这个罢工委员会其实已经相当于一个小政府了。
+
+    当时，还在东园大门挂着“中华全国总工会省港大罢工委员会”和“中华全国总工会省港大罢工委员会纠察队本部”两条长匾。罢工委员会组织了2000多人（最多时达5000多人）的工人武装纠察队，严厉抵制外货。使香港交通运输中断，食品供应断绝。随后又改变为单纯对英封锁，规定“凡不是英国货英国船及经过香港者，可准其直来广州”。
+
+    直到1926年10月10日，省港罢工委员会在广东革命政府决定增加25%的关税附加税以安置罢工工人的条件下，发表关于停止封锁香港的布告，这个历时16个月之久的省港大罢工至此结束。
+
+    可惜，罢工结束还不到一个月，1926年11月6日，帝国主义收买反动分子纵火焚毁东园，仅存一座门楼和“红楼”前的一棵大树。事后，罢工委员会发动罢工工人重建了罢工会址。
+
+    焚毁前的东园相当壮观，占地2.5万平方米。分前后两部分，前半部分正南大门，有一座高约8米的石桥式砖木结构门楼，横眉上有李准手书“东园”二字。门楼中间为40米宽的大厅，左右两侧各有一个圆拱门，拱门内有两间小房，是罢工委员会工人纠察队值班室。进园50米有一荷花池。池东、西各有一八角亭，东亭为工人纠察队总部，西亭为会审处。池的正面有砖木结构的西式二层洋房“红楼”，首层是工人纠察队的礼堂，二楼为纠察队的模范队宿舍。后半部有1000平方米池塘，一小溪从西流入，溪上有两座双层木阁楼，雕梁画栋，古色古香。西边有一座面积700平方米的罢工委员会训育亭，随着罢工斗争的发展，北面搭起了4座大葵栅，作为办公的地方和收押犯人的监狱。
+
+    新中国成立后，旧址归广东省汽车公司和广东省总工会使用。1962年6月，省港罢工委员会旧址由广东省人民政府公布为广东省文物保护单位。1984年，广东省人民政府拨款在原地重建“红楼”，建立省港罢工委员会纪念馆，这里成为了革命传统教育的基地。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

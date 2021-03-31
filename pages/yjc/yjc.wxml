@@ -1,0 +1,51 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 19rpx; top: 5rpx">周恩来召开勉励北伐军党员干部会议</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 走入今天的广州大厦你绝对想不到中国共产党的一位伟人曾在脚下这片土地上激扬文字、挥斥方遒。1926年5月，时任中共广东区委军委负责人周恩来在此召开了北伐军叶挺独立团连以上的党员干部会议，以“饮马长江”、“武汉再见”勉励全体党员干部。
+
+    1925年“五卅”运动爆发后的广东，经过省港大罢工和东征、南讨等统一革命根据地的一系列革命斗争，革命热情空前高涨。而当时的广州国民政府不但将广东的军政、财政、民政统一，而且也领导了已经控制广西的李宗仁、白崇禧、黄绍竑等军事力量，湖南的唐生智部也归顺国民政府，出师北伐，统一全中国的时机日臻成熟。1926年2月21日至24日，中共中央在北京召开特别会议，着重讨论和研究推动广州革命政府北伐的问题，会议指出：“党在现在政治上的主要任务是从各个方面准备广东政府的北伐。”
+
+    1926年4月，在中国共产党的推动下，广州国民政府决定出师北伐。由于充任北伐先遣队任务繁重而又艰难，当时国民革命军中相当一部分将官不愿率部担此重任。这时，中共广东区委以国民革命的大业为重，主动提出由叶挺独立团担当北伐先遣队。1926年4月底，叶挺奉命率独立团由肇庆出发，率先北伐。5月，北伐先遣队叶挺独立团抵达广州，中共广东区委在省港罢工工人纠察队中进行了紧急动员，挑选出一批精壮的党员和积极分子参加叶挺独立团。
+
+    怎样才能加强叶挺独立团的战斗力进而扩大共产党在国民革命军中的影响力是时任中共广东区委军委负责人周恩来十分关注的问题。为此，周恩来在广州约见了叶挺，听他汇报独立团的基本情况，接着在司后街（今越华路）叶家祠中召开独立团连以上的党员干部会议，传达区委指示，进行政治动员。周恩来着重指出：我们是革命的军队，同以往任何别的军队有原则的区别，作战要英勇，不怕牺牲，要能吃苦耐劳，尤其是共产党员要起先锋模范作用。最后，周恩来以“饮马长江”“武汉再见”勉励全体党员干部，激励大家克服困难，在武汉胜利会师。独立团的中共支部把广东区委的指示分别在党内外的干部战士中进行普遍的传达和讨论，使广大官兵明了北伐的意义及北伐先遣队的光荣和责任，树立不怕牺牲、英勇作战的思想。叶挺独立团在北伐的征途上果然不负众望，一路上披荆斩棘，屡打胜仗，为他所在的第四军获得“铁军”称号立下了汗马功劳。
+    
+    今天我们在广州越华路已经寻不到叶家祠的踪迹了，20世纪30年代，叶家祠被拆建为“汉民别墅”，别墅南面的公园被命名为“汉民公园”（即现中山四路334号原广州儿童公园）。抗日战争胜利日本侵略军投降时，广州的人民群众冲进汉民别墅抢夺日军在里面剩下的物资，结果把汉民别墅破坏掉了。人民解放军接管广州后，中共广州市委在国民党当局建造大楼的基础上继续建造，盖起了市委办公楼。改革开放后，越华路的原市委办公楼被拆掉，在办公楼所在的地方并有所扩大，逐步盖起了现在的四星级酒店广州大厦。叶家祠虽然消失了，但我们依然不应该忘记，这里曾经为叶挺独立团党员干部举行过动员大会。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

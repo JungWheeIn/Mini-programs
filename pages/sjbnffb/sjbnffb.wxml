@@ -1,0 +1,55 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 162rpx; top: 12rpx">广州工人运动的指挥所</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 说起“中国劳动组合书记部”，你可能不知道是个什么机构，但是说起工会你一定再熟悉不过了，其实中国劳动组合书记部就是中国共产党领导的工会组织前身。在广州解放中路玉华坊玉华中约20号之二有一幢三层砖木结构的楼房上挂着中国劳动组合书记部南方分部旧址门牌，这里就是90年前广州工人运动的指挥所，即中国劳动组合书记部南方分部旧址。
+
+    中国劳动组合书记部是中国共产党领导工人运动的组织，中共一大召开后，中共中央局在上海成立了中国劳动组合书记部（即中国工会办事处），由张国焘任主任，作为党公开领导工人运动的机关。1921年8月，作为党公开领导南方地区工人运动的组织，中国劳动组合书记部南方分部（后改为广东分部）在广州成立，谭平山、冯菊坡先后担任分部主任，谭平山当时是中国共产党广东支部书记。
+
+    中国劳动组合书记部南方分部成立后，广州地区的工人组织也快速建立起来。石井兵工厂成立了“十人团”和“兵工厂工人俱乐部”；粤汉、广九、广三铁路成立了工会；此外，酒业、米业、柴炭、碾谷、手车等行业工会也先后成立了。在南方分部的指导下，广州工人阶级为了自身的利益，开展了一系列的斗争。例如，1921年10月21日，全市车衣工人在车衣总工会领导下，进行罢工斗争，终于迫使资本家同意增加工资20％，每日减少工作时间2小时；又如，10月28日，全市400多革履工人为要求增加工资而举行罢工，发表宣言、散发传单和举行游行，最后亦取得了胜利，迫使资方提高工资30％。
+
+    1922年10月，为拥护中国劳动组合书记部于8月间提出的《劳动法大纲》以及在全国掀起的“劳动立法运动”，南方分部发动109个工会先后通电要求政府立即颁布执行。1 0月下旬，中国劳动组合书记部南方分部负责人冯菊坡、阮啸仙、刘尔崧、周其鉴等联合盐业工会、机织工会、轮船工会、革履工会、广东总工等工人团体组织“爱群通讯社”，社址设在南方分部的二楼，作为领导工人运动的公开合法机构，指导工人群众进行斗争。爱群通讯社还出版《星期报》，以联络和发动工人群众。
+
+    1922年底到1923年初，刘尔崧在顺德建立碾谷、炭业两个行业工会，并在原属广东总工会所控制的顺德县梳篦、茶楼、建筑、爆竹等四个行业工会中发动清除工贼运动并将以上组织进行改组成立革命工会。1923年春，刘尔崧又到广州油业工人中进行宣传发动工作，建立起“十人团”的组织，并将广东省油业总工会的领导体制由旧式的会长制改为委员制，其本人被选为油业工会的常委兼秘书。当时广东油业工人有1万多人，已参加工会的就达8000人，是一个较大的工会组织。
+    
+    20世纪20年代初，广东的行业工会大部分由“广东总工会”和“广东机器工会”等黄色工会控制。1923年2月，为了团结工人，争取改造旧工会和黄色工会，广东工会联合会成立并另办《劳动周报》，劳动组合书记部南方分部和该部出版的《星期报》同时宣告结束。从此，广东工人运动在广东工会联合会的领导下又揭开了新的一页。
+
+    今天广州解放中路玉华坊玉华中约20号之二的中国劳动组合书记部南方分部旧址被较好地保留了下来。旧址为一栋3层砖木结构楼房，它坐北向南，楼顶前部为天台，后部为金字架瓦顶。该楼长12、宽4米，面积48平方米，每层前面有阳台，以木栏杆护栏。由于房子长期为居民使用，现仅外部大体上仍保留原貌，其余已非原状。虽然中国劳动组合书记部南方分部只存在了不到两年时间，但是中国劳动组合书记部南方分部旧址作为近百年前中国共产党人领导的轰轰烈烈工人运动的指挥所，值得永久保存。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

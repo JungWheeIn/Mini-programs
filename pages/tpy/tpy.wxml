@@ -1,0 +1,51 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 80rpx; top: 5rpx">抗击国民党反动派的坚强堡垒</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 解放战争时期，中国共产党为了抗击国民党的反动统治，在其所统治的地区设立众多的秘密据点来加强在其统治区的活动，而位于维新横路6号2楼的中共广州市委（特派员）旧址就是众多秘密据点的一个，它为中共在广州的胜利做出了重要的贡献。
+
+    随着抗日战争的胜利，国民党蒋介石集团为了进行独裁统治，再一次发动内战，1946年6月，蒋介石悍然撕毁停战协定和政协协议，大举围攻中原解放区，全面内战爆发。为加强对广州的统治，国民党反动当局企图全力消灭广州及郊县的中共力量，采取了一系列强化治安的措施，阴谋将广州的革命力量消灭。
+
+    面对这一严峻的形势，中共广东区委采取了一系列紧急措施，如大量撤退已经暴露身份的党员到香港和农村，改变组织机构和领导方法，撤销中共广州市委员会，改设广州特派员，全部改为单线秘密联系等。为了把把党组织完全隐蔽起来，广东区委租赁维新横路6号2楼为秘密办公地点。由钟明任广州总特派员（1948年8月钟明担任中共中央香港分局城市工作委员会副书记，负责筹备接应南下大军解放广州的工作，但仍兼广州特派员），陈翔南任学运特派员，余美庆任工运特派员，李国霖任机关职员、中小学教师特派员。特派员直属中共广东区委城市工作委员会领导。
+
+    1946年7月，钟明到任，根据上级指示，首先要粉碎敌人对革命力量“杀尽灭绝”的计划，确保组织安全，然后开展斗争。首先继续布置暴露了身份的党员撤退。其次改变原有的组织形式，撤销原有的总支、支部和小组，代之以各条不同系统的线，各线下面采取单线联系、纵深配备的形式。第三、通过学习和思想总结进行自我教育，将留下的同志再一次审查，并加强形势、革命理想、为人民服务、革命气节和秘密工作条例的教育。经过上述措施把组织完全隐蔽起来，站稳脚跟，取得新的发展。他们积极领导青年学生开展反饥饿、反内战、反迫害斗争，有利地配合全国解放战场的军事斗争。
+    
+    今天，除了个别机构还有“特派员”这种职务外，特派员已经主要成为电影里的一种“角色”了，但是，当时市委特派员制对领导人民反抗国民党的反动统治，取得解放战争的胜利做出了重要的贡献。今天，虽然位于维新横路6号2楼的中共广州市委（特派员）旧址早已不是当年的样貌，但是，这里曾经是那段革命岁月的见证。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

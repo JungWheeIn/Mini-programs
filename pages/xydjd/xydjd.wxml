@@ -1,0 +1,61 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 87rpx; top: 12rpx">中华全国总工会劳动学院旧址</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 有"南华第一楼"美称的新亚大酒店始建于1927年初，坐落在广州市繁华的人民南路，整体呈现出古典欧陆式建筑风格，是20世纪20年代广州首屈一指的最豪华最高雅的酒店之一，在粤港澳甚至东南亚一带都享负盛名。时至今日，酒店盛名不再，英姿略显老态，但很多人对广州新亚大酒店都不陌生，不过鲜少有人知道此地竟然是中华全国总工会劳动学院的旧址。
+
+    在广州，当毛泽东同志主办农民运动讲习所的同时，为了适应当时轰轰烈烈的省港大罢工这一反帝斗争的迫切需要，中国全国总工会教育宣传委员会决定创办劳动学院，来提高民族斗争中战术上的学识、锻炼斗争的能力、补充管理营垒工作的经验。
+
+    劳动学院是中国职工运动史上最早的培养工人领导干部的学校，主要招收革命队伍中的工会领导干部，每一期培训学习三个月，学习的课程主要有世界职工运动、中国职工运动、三民主义浅说、中国民族革命劳动等，主要是研究革命方法。
+
+    第一期学员培训是在中华全国总工会（越秀南路53号）举办，共招收了一百九十多名学员，正式开课时无人缺席全部到场。当时的劳动学院的院长是邓中夏同志，刘少奇同志是中华全国总工会的重要领导人，也在该校讲课，并且在第一期开学典礼上致辞。1926年8月29日，中共党员瞿秋白同志到广州与国民党开联席会议，也曾到该校讲过课。
+
+    第二期招收学员二百一十多名，由于人员较多，上课地方狭窄，在举办第二期的时候就搬到人民南路南华楼4楼，即现在的新亚大酒店，刘少奇也曾在这里讲过课。遗憾的是，后来由于政治形势变化，到1927年4月被迫中止，只举办了两期就停办了。
+
+    今天看到的新亚大酒店已经显得有点陈旧，但是，当年这家酒店驰名港澳甚至东南亚。1920年代初由归国华侨集资兴建，1927年正式开业，“新亚大酒店”五个招牌字是国民党元老于右任亲笔所书。开业之初，新亚大酒店以高品位、高质量立店，引进西方管理模式，服务殷勤细腻，经营手法独辟蹊径。开业仅2年多，先后在香港、上海开设分店，成为上世纪20年代广州第一流的高级豪华酒店。曾接待李宗仁、孙科、张发奎、余汉谋、郭沫若、茅盾、夏衍、欧阳山等政界要人同知名文化人士。
+
+    这里还有一段关于郭沫若和他第三任夫人于立群的佳话。
+
+    1937年12月6日，在当时国民党高级将领余汉谋的支持下，郭沫若与于立群等人到达广州，复办《救亡日报》，当时住在梅花村。由于在梅花村诸多不便，郭沫若搬到新亚大酒店。谁料，当时于立群也搬到这里，两人因为都会写颜体字而交往颇多。伴随着宣纸上一个个大颜字，郭沫若和于立群的感情，像墨汁一样浓得化不开了。
+
+    1938年1月，郭沫若在新亚大酒店与于立群结合。没有铺张的婚宴，没有亲朋好友的笑语祝福，他们这段婚姻，在静悄悄中，却带有几分浪漫。这一对患难夫妻，在以后的日子里相濡以沫，渡过一道道难关。
+     
+    近些年，通过深入挖掘历史内涵，新亚大酒店在继承传统基础上不断创新，一改之前低迷残旧的经营状态。现在入住酒店，还有很多的历史痕迹的珍藏品可以观赏，比如1930年代的铜质咖啡壶、英国制造的磁碟等等，真真切切的感受看得见摸得着的历史。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

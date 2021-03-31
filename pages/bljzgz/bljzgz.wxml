@@ -1,0 +1,56 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 181rpx; top: 10rpx">能量巨大的“八办”</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 凡是用数字作为对外名称的，一般都带有一些神秘色彩，比如“一局”、“二办”、“三处”……抗战时期，在广州，就曾经有一个叫“八办”的机构，先后位于今天的德政北路和中山二路，它就是“八路军驻广州办事处”。
+    八路军办事处是在抗日战争时期，国共两党实现第二次合作后，中共在国民党统治区一些主要城市如武汉、桂林、西安、广州等地设立的办事机构。1937年10月，中共代表张云逸抵达广州同国民党第四路军总司令余汉谋就成立八路军广州办事处等问题进行谈判。1938年1月，八路军广州办事处正式成立，地址设在德政北路7号（原德政北路375号）二楼，办事处为两房一厅，面积约60平方米。成立之初，由张云逸领导办事处工作，张云逸调任新四军参谋长后，办事处改由廖承志领导。1938年4月，廖承志将其父母在百子路（现中山二路）8号——10号的旧居“双清楼”腾出来作为办公场所，面积约200平方米。
+
+    云广英担任八路军驻广州办事处主任，徐青任秘书，还有5个工作人员。机构虽然很简单，但是当年这个机构对促进国共合作、团结抗日起到了非常重要的作用。其主要任务包括：与国民党有关机关和上层人士联系，办理八路军、新四军的军需，商谈有关事宜；与各界人士联系，开展抗日统一战线工作，扩大中国共产党的政治影响，不断组织进步爱国青年到延安，参加八路军、新四军；掩护中共广东省委和地下党的活动。当时，八路军办事处，简称“八办”。
+
+    当时，在广州的“八办”有多厉害呢？在国共合作之初，利用广东省政府主席吴铁城想利用与中共和进步人士的合作来塑造自己热心抗日事业形象的契机，八路军驻香港办事处的潘汉年和八路军驻广州办事处的廖承志赴穗拜访了吴铁城，结果马上打开了广东军政方面上层人物的通道，十二集团军总司令余汉谋、广州市长曾养甫等军政要人都与广州“八办”建立了联系，对宣传中共的抗日主张，起到了积极的作用。
+
+    1938年8月，为纪念上海抗战一周年，广东国民党当局在共产党的支持和推动下，提出“保卫大广东”的口号，发动了一次抗日救亡献金运动，8月15日，八路军广州办事处和新华日报广州分馆在西濠口献金台联合举行献金大会，2000多人挤满献金台前，现金群众甚至喊出了“中国共产党万岁”的口号。在中共的组织和发动下，广州献金运动历时一周，到8月19日结束，全市共获献金100万元。
+
+    而“八办”还与国民党广东当局交涉，要求释放“政治犯”、“嫌疑犯”营救中共党员和革命青年300多人出狱，在为延安八路军、新四军输送革命的“新鲜血液”方面，“八办”陆续介绍到延安八路军、新四军进行抗战的人数达1000多人。
+
+    1938年10月，在广州沦陷前，八路军驻广州办事处迁到粤北韶关，改为八路军驻韶关办事处，1940年10月，撤销。而八路军驻广州办事处主任云广英在上世纪80年代，还曾担任过广东省政府秘书长、广东省检察院检察长。
+    
+    今天，我们在德政北路和现中山二路，已经难以寻找当年“八办”的遗迹了：德政北路7号的那栋楼在上世纪90年代中期因城市建设已经拆毁，几经变迁，这里如今是一个围蔽的工地，德政北路7号已经不复存在，门牌号已经变更成300多号了，在这里住了几十年的附近街坊给大家指引，现在德政北路与中山路交界处的邮筒位置，大概就是当年的八路军驻广州办事处位置，这几年时不时就有人来问这个地方；而百子路的双清楼在抗日战争中被日寇炸毁，后来没有恢复重建，现在的百子路已经不复存在，双清楼原址就在今天中山二路“电信广场”的位置。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

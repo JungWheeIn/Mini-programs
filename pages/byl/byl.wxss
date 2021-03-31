@@ -1,0 +1,33 @@
+/* pages/zsjnt/zsjnt.wxss */
+page{
+  height:100%
+}
+
+.title{
+  font-size: 45rpx;
+  color:#B22222;
+  font-style: inherit;
+  font-kerning: auto;
+  position:center
+}
+
+.main_text{
+  font-size: 35rpx;
+  color:black;
+  font-style: initial;
+  text-indent: 2em;
+  text-align: left;
+  line-height: 2em;
+  line-break: normal;
+}
+
+.whole {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: url(https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1071573031,647935570&fm=26&gp=0.jpg) no-repeat;
+  background-size:cover;
+  text-align: left;
+  font-size: 14px;
+  background-attachment:fixed;
+  }

@@ -1,0 +1,57 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 179rpx; top: 5rpx">父哭子的“思复楼”</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 从广州地铁6号线东山口站E出口出来，有一栋白色的独楼宛如一叶幽莲悄然开放，它就是陈树人纪念馆，是在陈树人、陈复故居“樗园”遗址上兴建的。
+
+    陈树人（1883～1948） 广州番禺人，名韶，字树人，别号葭外渔子，晚号安定老人。早年师从著名岭南画派大师居廉学画，后留学日本毕业于京都美术学校和东京立教大学。在日本游学期间，陈树人开始追随孙中山从事民主革命，并于1905年10月16日，在香港加入中国同盟会。归国后陈树人曾在广东优级师范学校、广东高等师范学校任教。1923年1月，被任命为国民党本部党务部部长，后任广东省政务厅厅长，1924年以广东省代表身份参加中国国民党第一次全国代表大会。1928年后历任国民党中央执委、国民政府中央侨委会委员长、国民党中央海外部长等职。1947年辞职后，陈树人定居广州专心画艺，与高剑父、高奇峰被称岭南画派三杰。著有诗集《战尘集》和画集《陈树人中国画选集》、《陈树人写生集》等。
+
+    陈复（1907～1932），广州市番禺县明经乡人，字志复，化名陈志文。父为国内外享有盛誉之岭南画派创始人之一陈树人，母居若文。因其父随孙中山参加民主革命，曾任孙中山国府秘书长等职，其母亦与宋庆龄、何香凝有往来，故自幼受到家庭革命思想之影响。
+
+    陈复幼年随父母迁居广州，在海珠区南武小学读书，其后就读于上海复旦中学。在沪求学期间，他毅然深入黄包车工人群众中宣传革命思想，是时苏联建议广东革命政府选送一批青年赴苏学习，以加强革命干部队伍建设，陈复遂于1925年与廖承志等人一起进莫斯科中山大学深造，并在学习期间参加中国共产党。
+
+    1929年陈复毕业归国，在中共广东省委宣传部领导下的香港《工人日报》社担任副社长。当时，革命斗争的环境很艰苦，他以巨大的政治热情经常鼓励同志们要提高警惕，坚持对敌斗争。为了解决办报的经费问题，除动员大家勤工办报外，还设法与家庭秘密联系，取得经济上的接济，当时《工人日报》成为共产党团结群众、进行阶级斗争的有力武器。
+
+    1930年春，陈复化名陈志文奉调至天津中共顺直省委，同聂荣臻同志一道开展地下党宣传工作。其母居若文曾劝他不要干冒险的工作，陈复耐心开导母亲并坚决表示：“为了工农劳苦大众的翻身解放，即使丢了脑袋也心甘情愿。”在白色恐怖阴云笼罩的日子里，他印发报刊，传递进步书籍，把马列主义的革命思想传播到工农群众和知识分子中去。不久因行踪为敌人发觉被捕入狱，在狱中，他虽受尽酷刑，但坚贞不屈，后经党组织营救出狱，调到广州，任中共广州市委宣传部长。
+
+    回广州后，陈复居住在东山私宅樗园，以富家子弟身分为掩护，表面闭门读书，实际继续从事地下工作，宣传革命思想。1932年8月10日下午外出时，陈复于东山署前路公共汽车上被两名侦缉跟踪，至仓边路口下车后即被绑架，并秘密监禁于维新路市（今起义路）警察局。同日午夜，又被秘密押至河南南石头“惩戒场”惨遭杀害。陈复遇害后，其父陈树人悲痛欲绝作《哭子复》诗8首，并将具居室名为“思复楼”。
+    
+    今天，我们在署前路10号已经寻不到陈树人、陈复故居樗园的身影了。抗日战争时期樗园毁于战火，1948年陈树人在樗园附近的一块空地即今署前10号建栎园自住。解放后，其家人将其地献给政府，新建了陈树人纪念馆，于1988年陈树人逝世40周年建成开放。纪念馆占地面积 480平方米，建筑面积578平方米，分前后二室。前室有二层展厅，首层为画廊式展室，作为举办美术作品短期展览的场所，二楼展室为常设性展览，展出陈树人作品及其生平艺术活动资料，后室为“思复楼”，是为纪念陈树人儿子陈复烈士而设的。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

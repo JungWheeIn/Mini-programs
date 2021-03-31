@@ -1,0 +1,54 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 136rpx; top: 12rpx">黄埔军校驻省办事处旧址</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 在广州市沿江中路，有一幢古罗马圆柱式的黄色楼房格外醒目，主楼中央为人字形尖顶，左右伴以弯弓顶衬楼，正面入口处有柱式圆拱形铁闸大门，矗立于珠江岸边，南瞰滔滔江水，沧桑中诉说着一段鲜为人知的历史。提起中国近代最著名的一所军事学校，非黄埔军校莫属，这所曾经蜚声中外的军校涌现出大批在抗日战争和解放战争中战绩斐然的名将，而对于黄埔军校的筹办处（后改为黄埔军校驻省办事处），恐怕知之者甚少。
+
+    1924年2月，陆军军官学校即黄埔军校在广州南堤2号（近沿江中路239号）设立筹备处，主要是为建立黄埔军校做前期准备，包括讨论决定军校的校章、教职员的任免、学生的招考等各种事项。
+
+    酝酿成立黄埔军校之际，正值广州国民革命政府初创时期，各政党、派系之间的明争暗斗，军事、政治斗争错综复杂，经济状况异常艰难。在1924年1月，黄埔军校筹备委员会在开始工作后的近半个月里，还没有固定地方可安置办公室，只能将孙中山乘坐的“大南洋”号船作为军校筹备委员会的临时办公地点。随着招生工作的迅速进展，地址相对固定的军校筹备处成为亟待解决的问题。在多方努力下，筹备委员会在广州市区繁华的地段寻找到一座古罗马圆柱式小楼房，占地面积约700平方米，共三层，年租金200银元，黄埔军校筹备委员会便正式落户南堤2号（今沿江中路239号）。最初一楼作为军校筹委会办公区域，二楼主要作为教授、训练、管理、军需和军医的临时办公地点以及筹委会委员的宿舍使用，三楼为会议厅和接待室，蒋介石、廖仲恺、李济深、王柏龄、邓演达、叶剑英等在广州期间都曾在此办公。
+
+    入住南堤2号后，门前也挂起了筹备委员会办事处的名匾，张贴出了第1期招生公告，公开打起了创建军校的旗帜。晚间楼内灯火通明，在广州早春的和风中，筹备会议接连不断。在筹备会开张初期，会议由蒋介石主持，后由廖仲恺代行其责。参加会议的除大元帅府任命的原大本营高级参谋王伯龄、原粤军第8师师长兼西江善后督办李济深、原粤军西江讲武堂总教练林振雄以及俞飞鹏、宋荣昌、张家瑞6名正式委员外，还有经王伯龄刚从粤军第6旅邀请来的原参谋长叶剑英、粤军骁将邓演达以及营长严重、原保定军校炮兵队长钱大钧、建国粤军军部参议刘峙、原东路讨贼军总部副官顾祝同等。会议的内容，主要是决定有关军校开办事宜，实施各项创校工作的进行。
+
+    在孙中山的领导和共产党人的积极合作下，终于成功完成了军校从筹备到开学的艰辛开拓。长达三个多月的充分准备后，5月9日黄埔军校正式开课。黄埔军校正式办学后，南堤2号的军校筹备委员会改为黄埔军校驻省办事处，成为黄埔军校留在广州市区的办事联络机构，随着黄埔军校在广州的办学而存在，直至1930年9月黄埔军校在广州停办，驻省办事处也随之裁撤。
+
+    黄埔军校筹备委员会登陆南堤2号楼后便卷动了黄埔军校的历史风云，自黄埔军校筹备委员会驻节这里开始，黄埔军校驻省办事处、中国青年军人联合会、黄埔军校同学会都曾在这里办公，这里与黄埔军校有着无尽的情缘。黄埔军校的学生大多数都“朝拜”过它，因为它是教官和学生们平常聚会的首选、购物的天堂。
+
+    作为黄埔军校的发源圣地，黄埔军校驻省办事处沉静在喧嚣的广州市区，默默守护着过往的辉煌。偶尔还能看到三三两两的游客拿着地图一路寻找这处历史旧址，想必是为了走进革命英雄曾经办公和生活过的地方，与历史英雄人物近距离接触，一睹当年黄埔军校发源地的风采。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

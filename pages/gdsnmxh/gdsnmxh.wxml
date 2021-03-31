@@ -1,0 +1,50 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 176rpx; top: 19rpx">周恩来当了军委书记</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative">周恩来和邓颖超这对模范夫妻的爱情佳话历来受人称道，但对他们夫妇曾在广州工作、生活过一段时间的往事知之甚少。在今天广州的万福路便有一处楼房曾是周恩来和邓颖超夫妇居住过的地方，这也曾是当年中共广东区委军委的办公之地。
+
+    第一次国共合作期间，为协调黄埔军校等在穗革命武装力量，中共广东区委建立了第一个也是唯一一个军事工作机构——中共广东区委军委。1925年1月,周恩来作为黄埔军校政治部主任, 随军指挥第一次东征, 为集中精力领导军事工作, 即改任中共广东区委军事部长，是广东区委军委的第一任军事部长。1926年5月，中共广东区委军委搬到了万福路190号的二楼办公，当时的军委书记兼黄埔军校政治部主任周恩来就曾同邓颖超在此居住和办公。
+
+    这栋二层的楼房建造于1922年,是属于地产商嘉南堂的产业。当时一楼是西华银行，二楼则由中共广东区委军委租赁办公。进入二楼看到的就是大厅，用来做会议室，周恩来经常在此召开会议。大厅左侧是办公室,里面摆放着几张办公桌和手摇电话机,可以联想到当年周恩来等人在此办公的情景。大厅靠马路的一侧,开辟了一个小小的会客室，摆设了一套西式的沙发,两旁还有几张靠背酸枝椅和茶几，周恩来和邓颖超当年经常在此接待客人,向警予、李富春、蔡畅常来此作客,胡公冕、宋希濂、陈恒乔等黄埔军校师生也曾到此拜访周恩来。大厅西侧有一间狭长的卧室，是周恩来和邓颖超办公和居住的地方，里面陈设简朴,只有一张西式大床,一张方桌,几张椅子,近窗处还有一张办公台,旁边有个藤书架,堆满了各种书刊。大厅东面还有两间小房子,是聂荣臻、黄锦辉、麻植、朱楷等人的宿舍。
+
+    1926年7月9日，广东国民政府领导的国民革命军十万人正式出师北伐，周恩来跟随北伐大军北上。中共广东区委军委交由黄锦辉负责,仍在此办公。至1927年国民党反革命政变前夕,军委撤离此处,转入地下继续秘密办公,一直坚持到大革命失败。广东区委军委曾对广东武装建设作了积极的贡献。
+
+    旧址外貌至今尚保存完好， 1979年被公布为省级文物保护单位。近年来，相关文物保护部门及时对旧址进行了改造、修缮和加固，已逐步恢复原貌，并建立纪念馆进行规范管理开发。现在已成为广州党员学习基地和青少年爱国主义教育基地，吸引更多的人到广东区委军委旧址参观学习，接受革命历史教育，接受红色革命的洗礼。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

@@ -1,0 +1,59 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 118rpx; top: 17rpx">中共领导曾担任国民党要员</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative">在广州越秀南路53号（现89号）有一座看似普通却不普通的两层西式洋房，却有游客专门来到这里参观，原来这栋不起眼的洋房竟然是全国重点文物保护单位。到这参观的游客大部分是冲着中华全国总工会旧址而来，很少人了解这里在成为中华全国总工会之前曾是国民党中央党部旧址。
+
+    这栋洋房经过修缮较好的保持了原貌，整个建筑坐西朝东，是一座两层砖木结构西式洋房，建筑面积达1746平方米。房子建设风格是比较简单和宽敞，两层楼的正面和靠南的一面均有两米多宽的走廊，每层楼都有3个房间，房间之间有横门相通，门和走廊也是相通的。
+
+    1924年1月，孙中山在广州召开了中国国民党第一次全国代表大会，大会结束后，孙中山又主持召开了国民党第一届中央执行委员会议，推选了廖仲恺、谭平山、戴季陶等为中央常务委员，组成国民党中央执行委员会即国民党中央党部，办公地点就在这栋洋房的二楼。国民党中央党部下面设了宣传、组织、工人、农民、青年、妇女、军事、海外八个部和一个秘书处。以个人身份加入国民党的共产党人也在其中担任了重要职位，谭平山担任组织部长、林祖涵任农民部长、毛泽东后来任宣传部代理部长、廖仲恺任工人部长，何香凝任妇女部长。而各部负责日常实际工作的秘书（当时相当于副部长），很多也是由共产党人担任。
+
+    这栋洋房不仅是国民党中央党部的办公地点，而且还是一场震惊中外的廖仲恺刺杀案的见证者。廖仲恺是资产阶级民主主义革命家、国民党左派的旗帜、孙中山的得力助手，他积极协助孙中山改组国民党，是中国共产党的亲密朋友。
+    
+    1925年8月20日上午，盛夏的广州笼罩在一片湿热之中，空气沉闷得令人窒息。上午9时许，一辆汽车正朝着国民党中央党部行驶，车内坐的是参加中央常务会议的廖仲恺、何香凝夫妇。9点50分，汽车驶到了中央党部门口，廖仲恺、何香凝及卫士们先后下了车，向大门走去。当廖仲恺登上第三个台阶的时候，突然，有七八个凶徒从中央党部大门前骑楼底下的石柱子后面冲出来，举枪对着廖仲恺等人猛烈射击。廖仲恺首先连中四枪。枪声扰动了凝重的空气，随着人群的尖叫和血腥的弥漫，廖仲恺倒在血泊中。因伤势太重，廖仲恺在去医院的路上便停止了呼吸。牺牲后，他的灵枢安放这座洋房1楼的礼堂。
+
+    1925年9月1日，广州各界人士沉痛送别廖仲恺，送葬队伍长达10里，广州黄埔军校师生、工人、农民、市民群众等二十多万人参加了葬礼，送别廖仲恺先生，泪洒羊城，史上罕见。
+
+    廖仲恺被刺杀后，革命形势更加严峻复杂，1925年9月底，国民党中央党部迁往大东路30号旧省议会(今中山三路广州起义烈士内广东革命历史博物馆)，旧址由新成立的中华全国总工会使用。1926年5月，第三次全国劳动大会和第二次广东省农民代表大会在广州联合举行，大会决定在这幢房子的前院左右两侧，建“廖仲恺先生纪念碑”和“工农运动死难烈士纪念碑”来以纪念廖仲恺先生及在工农运动中牺牲的烈士。
+
+    新中国成立以后，政府数次拨款对旧址进行修缮，于1959年10月向群众开放。1962年7月公布为省文物保护单位。文化大革命期间，旧址遭到破坏，1984年政府再次拨款对旧址进行了修缮，并于1985年5月1日“全总”成立六十周年纪念日重新开放，接待群众参观。1988年1月公布为全国重点文物保护单位。
+    
+    站在这座洋房的门前，似乎又回到80多年前：国民党中央党部，中共的几位重要领导人都是国民党要员，担任组织、宣传、工人、农民、妇女等战线上的一把手，努力对国民党进行改造，使国民党建立在工农群众的基础上，推动中国革命形势往前发展。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

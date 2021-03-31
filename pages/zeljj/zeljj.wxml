@@ -1,0 +1,53 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 129rpx; top: 3rpx">“中山舰事件”的见证者</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative">文德楼，位于广州市越秀区文德东路文德里1-3号，由5幢3层的楼房连成一体，该楼为近代带阳台的“洋楼”式建筑，钢筋混凝土结构，外墙批荡，花阶砖地面。而这栋楼更伟大的历史在于，他曾经是革命伟人周恩来夫妇在广州所居住过的地方。
+
+    1924年9月，从法国归来的周恩来，任中国共产党广东区执行委员会（又称“两广区委”）委员长兼宣传部长，11月又任黄埔军校政治部主任。1925年春，他辞去中共广东区委委员长职务，保留常委、军委书记职务。1925年，中共广东区委租赁文德东路文德楼的部分房子给工作人员居住。周恩来住3号2楼，李富春、蔡畅住1号2楼，中山舰舰长李之龙等住4号2楼。同年8月初，邓颖超由天津来到广州，代表天津各界联合会慰问省港罢工工友。8月8日，周恩来与邓颖超结婚，继续住在文德楼，当时周恩来邓颖超夫妇居住的3号2楼，客厅陈设简单，两张普通沙发、一张茶几和茶台，还有一张方形饭桌，十分简朴。
+
+    1926年初，周恩来、邓颖超随中共广东区委军委迁至万福路。
+
+    此楼也是蒋介石所发动的著名的“中山舰事件”的见证地之一。国民党“二大”后，党内左派势力不断扩展，共产党在黄埔军中也有很大影响。而这时作为黄埔军校校长的蒋介石因革命军铲除陈炯明势力，威望和权势大增。他为夺取更大权势，决心清除共产党对国民革命军的影响，于1926年发动了著名的“中山舰事件”。1926年3月18日，黄埔军校驻省办事处通知海军局，称奉蒋介石命令，请调得力兵舰2艘赴黄埔，听候差遣。海军局代理局长、共产党员李之龙即派“中山”舰、“宝壁”舰赴黄埔。19日，因苏俄代表团要参观“中山”舰，李之龙向蒋介石请示，可否调回“中山”舰。蒋介石否认有调“中山”舰到黄埔的命令，并允“中山”舰返广州。20日凌晨3时，蒋介石以广州卫戍司令名义宣布广州全城戒严，调动大批军警占领邮电局、码头、车站，断绝了广州与外界的联系，并借口“中山”舰“无故升火达旦”，是“扰乱政府之举”，命令虎门要塞司令陈肇英、欧阳格率兵占领“中山”舰及海军舰队，秘密逮捕住在文德楼的李之龙等50余人。这就是震惊中外的“中山舰事件”。
+
+    1999年7月，广州市人民政府公布为市级文物保护单位。
+    
+    今天，文德楼除巷口铁栏栅、匾额、更楼被拆除外，其他建筑尚保存完好，这座曾经见证过周恩来夫妇的革命岁月以及“中山舰事件”的历史楼，时不时提醒我们，应该永远铭记革命年代的艰辛。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

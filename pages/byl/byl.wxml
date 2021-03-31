@@ -1,0 +1,56 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 204rpx; top: 8rpx">读书与革命的地方</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 漫步在广州鲁迅纪念公园中，可以看到有一个以鲁迅为原形的文化旗手的雕像，它提着匕首，握着投枪，眺望着当年战斗、生活过的地方——白云楼，这是一座在1979年12月被广东省革命委员会公布为文物保护单位的历史建筑，曾是鲁迅在广州生活和战斗过的地方。
+
+    白云楼建立于1924年，位于广州越秀区白云路7号，是一座钢筋混凝土结构三层楼房，面向东南方，西靠东濠涌，近临珠江，环境比较清幽。原本是供邮政部门使用，后来用于出租。鲁迅从1927年3月29日至1927年9月27日离开广州期间一直在此居住。
+
+    l927年1月29日,鲁迅初到广州，就任中山大学教务主任兼文学系主任，居住在中山大学钟楼(今文明路鲁迅纪念馆)。在3月1日中山大学举行开学典礼上，鲁迅发表了“读书与革命”的演说，他认为革命既是革新，要求学生一面读书，一面革命。 
+
+    1927年3月29日，在钟楼短暂驻足后，鲁迅先生租赁了白云楼2楼的1厅3房作为居所,他和许寿裳各住一间,许广平和女工合住一间。
+
+    刚搬进白云楼不久，鲁迅就听闻李大钊被害的消息，他对此忧心忡忡，预感到革命的果实很有可能被葬送。为此，当广州在热烈庆祝北伐军攻占上海和南京的时候，他写下《庆祝沪宁克服的那一边》一文，表达了他对革命的担忧。果不其然，4月15日国民党在广州发动了“4.15”反革命政变，当时有大批革命青年被逮捕甚至遭到屠杀，中山大学也有一批学生被捕，其中包括鲁迅先生的学生、中共广东区委学委会副书记、中山大学学生会主席毕磊。鲁迅先生得知情况后，立刻设法营救被逮捕的学生，在极力劝说校方出面保护学生无效后，便愤然辞去的在中山大学的一切职务，开始蛰居白云楼潜心写作。
+
+    鲁迅的房间窗户正对马路，还可以看到远处的青山，是个创作的好地方。蛰居白云楼半年的时间里，鲁迅编订了著名的《朝花夕拾》和《野草》，写下了《可恶罪》、《小杂感》、《略谈香港》等30多篇富于战斗性的杂文、散文。此地不仅是鲁迅先生生活的地方，更见证了鲁迅先生的革命思想由萌芽到发展最终夯实的过程，是其不断战斗的地方。
+
+    1927年9月27日，迫于形势，鲁迅携许广平一同乘船离开广州，前往上海继续他的革命事业，直至生命最后一息。对于人的一生来说，鲁迅在广州的停留是短暂的，然而，他的革命思想却是在这里形成和夯实。
+    
+    今天我们所看到的鲁迅故居仍保持着当年鲁迅居住时的原貌，整个房间布局和摆设都比较简单朴实，摆在会客厅中竹制的椅子、螺旋式的破旧楼梯，都显示出主人简朴的生活作风。鲁迅先生是中国文坛史上举足轻重的人物，对于中国文化的发展和革命的斗争产生了不可磨灭的影响，而鲁迅的故居也成为极具历史价值的遗迹。广州的鲁迅故居不仅保存了鲁迅生活过的痕迹，可以让我们更深入全面的了解他的历史，更承载了一个时代的历史记忆，见证着社会的变革和时代的变迁。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

@@ -1,0 +1,55 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 139rpx; top: 12rpx">舰船专家亲自设计的洋楼</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 伍景英故居——隅园，位于今天广州市越秀区寺贝通津42号，1930年代，由留英美学生伍景英自行设计和出资建造的，前后历时长达两年多。该园，坐北朝南，是两层砖木式结构的洋房建筑，以厚重红砖为基调，屋顶一律选用进口的绿瓦，园内有前、后两个花园，典雅优美，具有明显的风水格局；洋楼整体建筑风格是带有明显的“英伦风”，同时，仍局部保留岭南特色——即把欧式封闭弧形的阳台改造成凹陷式的（目的是为了适应南方闷热的天气），在英式房梁托架上加以中国独有的吊环花型，这一独特“中西合璧”的建筑风格，被业界后人长期赞誉为“西曲中词”。
+
+    在当年洋楼建造时，伍景英有意选用了当时国内外最为优质的建筑材料，建筑工艺更是精益求精。在将近80余年之后的今日，洋楼的室内仍然较为完整地保存了当年从英国进口来的地板铺砖、壁炉以及洗漱室洁具等。室外当年的水池、水井和抽水设备仍在使用。园内当年种植的花旗杉、红棉树，更是树大参天，枝繁叶茂，处处相拥成荫。隅园集建筑艺术、园林艺术于一体，与春园、简园、逵园和明园一起并称为东山口现存最精美的“五大侨园”。
+
+    伍景英(1890-1993)，出生于1890年11月14日，广东顺德古朗村人。光绪31年(公历1905)考入广州黄埔水师鱼雷学堂，宣统元年(1909)毕业后受晚清政府选派，前往英国留学，专攻造舰技术，时间长达两年。1912年秋，伍景英考入德林大学，专心学习造船技术；1915年德林大学毕业后传赴美国电艇公司，专心研究潜艇技术，1917年转入朴茨第一期海军船厂工作，继续钻研潜艇的设计制造工艺。1920年2月，学成归国，后被中华民国海军部派送到上海江南造船所供职；1925年，任革命大本营广州海军局造船总监；1927年被广东军事厅任命为造船科长，专门司理舰船的督造，设计制造60吨至220吨位不等的炮舰，先后制造成功了仲元号、仲恺号、坚如号以及执信号四艘舰船。1928年，广州第一舰队司令部成立，伍景英被任命为司令部技正。1929年辞职赴港修养。1932年后再返广州，仍然出任广州第一舰队司令部技正。
+
+    抗战爆发后，出任柳州粤桂江防司令部雷械修造所所长，军衔是上校，曾参与设计制造各式水雷用于封锁广东六门航道，以牵制日本侵略者。抗战胜利后，长期在广东海事专科学校任教，有《造船理论》（此书在1963年由国防工业出版社刊行）一书留世。
+
+    广东解放前夕，考虑到伍景英在船舰设计和建造方面的突出功绩，为了制止国民党胁迫国内精英人才奔赴台湾的举动，同时，为避免船舰菁英人才流失，中共广东地下党当即决定保护和联络伍景英本人，派得力地下党员前往伍家对其开展说服工作，伍景英充分了解共产党政策之后，决定留守大陆，并且服从广州地下党的一切安排。他不顾身体老迈，奋力支持中国共产党的解放事业，以自己学有所长的造船技术（为木船改装机动装置），为海南的最终解放做出了重要的贡献。
+
+    解放后，伍景英先后出任支前司令部计划科副科长、港务局工程室副主任，中南军区海军舰船修造部总工程师，为人民海军的建立与强大发挥了重要作用。1979年，伍景英移居澳大利亚，1993年6月在异国他乡的悉尼不幸病世，享寿103岁。
+    
+    1997年，广州市政府将隅园选定为广州市文物单位，同时，通过挂牌、制度规范以及辖区居委会定点照看等措施，对隅园进行实时保护。
+    今日，在东山口的普通街巷之中，隅园，这座由舰船专家自行设计的洋楼连同其它四处中西合璧的侨园建筑，总是能给游客在不经意间带来蓦然回首的“惊喜”。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

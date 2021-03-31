@@ -1,0 +1,56 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 202rpx; top: 12rpx">重建过的城市地标</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 威武的人民子弟兵挎着小米袋，一手持枪、一手拿花，目光坚定，走过的地方都铺满了鲜花。无论是对于广州人还是很多外地人来说，这座雕像都是那样的亲切和熟悉，它就是广州城市的标志性雕像——广州解放纪念像。
+
+    广州解放纪念像是广州市人民政府为纪念广州解放十周年创作的，现立于海珠广场中央，面朝南，由基座和像身连组成。雕像是一名解放军战士，肩上背着小米袋，左编挎着驳壳枪，腰间围着子弹带，右手持步枪．左手抱着花束，昂首挺胸，坚定地望着前方。像座正面镌刻着解放后首任广州市长叶剑英的亲笔题字： “一九四九年十月十四日广州解放纪念”，四角分别刻有“一切权力属于人民”的印文。像身与方形的基座连成一体，好像一块巨石雕成的一方印章，钤在广州大地上。广州解放纪念像自建立以来历经了很多曲折，也有很多鲜为人知的故事。
+
+    1949年10月14日下午6点30分，中国人民解放军第十五兵团先头部队从广州北郊攻入广州市区，第四兵团、第十五兵团在中共华南分局第一书记、广东军区司令员兼政治委员叶剑英的指挥下，突破国民党军防线，攻占并解放华南最大城市——广州。
+
+    1959年，广州市长朱光提出要建立广州解放纪念像来纪念广州解放十周年。1960年10月14日，在海珠广场中心位置举行了奠基仪式。当时，叶剑英元帅参加了奠基仪式，并在仪式上作了重要讲话，后将讲话的文稿埋在奠基石下面。广州解放纪念像最初是由设计师尹积昌创造，在1962年便以“珠海丹心”被评为“羊城新八景”，遗憾的是在文革期间被严重毁坏，我们已无法看到最初的广州解放纪念像。
+
+    1969年3月的某天夜里，这座铭记着广州人民对子弟兵深厚情感的纪念像被“造反派”蓄意拆毁，像身被拆成石块散落一地，只剩下埋着叶帅讲话稿的奠基石。为了保存和保护广州纪念像，海珠广场的园林建筑工人们偷偷地把散落的像身石块藏在陵园西路旁边的草丛里，而且依然年复一年地在奠基石四周按季节摆放不同的花卉来代替广州解放纪念像，提醒人们不要忘记人民子弟兵。
+    文革结束后，广州市政府成立了“广州解放纪念像领导小组”重建广州解放纪念像。由于广州纪念像被拆毁难以复原，便面向社会公开征集设计方案，最终在108个设计方案中选择了由著名雕塑家潘鹤与梁明成两人的设计方案，方案的成品也就是我们现在看到的“小米加步枪”的人民英雄战士形象。
+
+    1978年11月16日，广州解放纪念像正式破土重建，为了在1980年8月1日之前完成重塑，不论刮风下雨还是寒冬酷暑，工人们每天都工作到凌晨，最后仅用七个月的时间便完成了广州解放纪念像的重塑。1980年8月1日上午，广州解放纪念像举行揭幕仪式，广州地区军民共1000多人参加。
+    
+    今天，广州解放纪念像已经成为广州的地标性建筑，凝结了广州人民对子弟兵的深厚感情，见证几十年来广州的时代变迁和历史发展，饱含着对未来的无限憧憬和信心。很多外地人来广州，都要特意到海珠广场去看一看这座纪念雕塑。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

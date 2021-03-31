@@ -1,0 +1,53 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 153rpx; top: 8rpx">记录日军暴行罪恶历史</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative">抗日战争全面爆发后，日本侵略者对广州实施一轮又一轮的轰炸，在广州市黄华路黄华塘就有一块纪念被日军飞机炸死的大批广州市民的石碑，它就是“血泪洒黄华碑”。今天的黄华路已经是高楼林立，商业繁华，很难想象当年这里只是广州郊区的一个村落。在黄华中约外街21 号对面，一家不起眼的士多店门口，血泪洒黄华碑就立在那里。碑高 1.71 米，宽0.76 米，刻于 1946 年 7 月，以花岗岩石镌刻。碑文正中为隶书“血泪洒黄华”5 个大字，刚劲有力，字迹清晰，两旁有小楷书写的碑文记述日寇轰炸黄华塘乡民的情况。
+
+    抗日战争全面爆发初期，在广州沦陷之前，日本帝国主义的飞机对广州进行狂轰乱炸，根《广州抗战史迹图文集》，日军从 1937 年 8 月 31 日首次空袭广州起至 1938 年 10 月 21日广州沦陷，共对广州市进行长达 14个月的狂轰滥炸。空袭广州的日机超过 800 架次，投弹 10000 多枚，共炸死炸伤民众 5000 多人，毁坏民房几千栋。当时，黄华塘是离广州城区最近的一个村庄，村里有古树、古庙、古民居，还有一间黄华寺。这里民风纯朴，村民安居乐业，但是日本侵略者破坏了他们的平静生活。据资料记载，在 1938 年 5 月 30 日和 6 月 10 日，位于今黄华路的黄华塘村先后两次遭日军敌机 16 架次夜袭轰炸，全村被炸，居民死伤百余人。据媒体后来回访黄华塘村后人，有一次日军飞机轰炸过后，一名幸存者数了最后抬出来放在地面的尸体，整整 89 具。抗日战争胜利后的 1946 年，黄华塘村民众组织“追悼殉敌会”，举行追悼死难者大会，在村民被炸地点刻石立碑，正面刻“血泪洒黄华”五个大字，碑文把日军暴行钉在历史耻辱柱上，以志日寇的凶残暴行和乡民受害的情况。1993年 8 月，广州市政府公布此碑为市级文物保护单位，让后人能清楚历史，铭记苦难。70 多年过去了，今天的黄华路一带，人们过着安稳祥和的日子，但竖立在那里的“血泪洒黄华碑”时时刻刻提醒着人们，1938 年，日寇曾野蛮轰炸过这里，这块碑记录着这段日军狂轰滥炸和屠杀广州平民的罪恶历史。
+
+    “血泪洒黄华”碑文：
+
+    溯自“七七”事变，矮寇肆虐，滥炸我民众，侵略我乡土，其凶暴行为，言之殊堪发指。我乡不幸，于民国二十七年五月初二日正午，为敌机轰炸乡之南约；又同月十三日下午九时许，复大举轰炸乡之中约闸口。两役共死伤百余众，田园庐墓尽成丘壑，一片荒凉，惊心触目。
+    二十七年，粤为敌陷，妖氛益炽。本乡位于市郊，为敌占据。乡民等向皆深明大义，虽处敌铁蹄之下，无不痛心疾首，敌忾同仇，沦陷八载，被其残害又不知凡几？兹幸敌人屈膝？还我山河。复员建设伊始，为慰忠魂而勖生者，爰刻石志其事，题曰：“血泪洒黄华”，永垂纪
+    念云尔。
+    中华民国三十五年七月
+    追悼殉敌会立
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

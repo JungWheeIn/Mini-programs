@@ -1,0 +1,52 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 19rpx; top: 5rpx">广州中山纪念堂：见证侵粤日军投降</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 孙中山先生一生为革命事业到处奔波，足迹遍布世界各地，在国内有很多纪念孙中山先生的建筑，在广州众所周知的则是中山纪念堂。中山纪念堂在很多城市都有同名建筑，比如北京中山纪念堂，而广州市中山纪念堂的特殊之处则在于广州作为新民主主义革命的发源地，不仅与孙中山先生一生的革命生涯紧密捆绑，见证了新民主革命的星星之火成燎原之势的发展历程，印刻着中国近代史的坎坷、屈辱和荣光。
+
+    广州中山纪念堂现坐落于广州城市传统中轴线——越秀山南麓的东风中路259号，此处原本孙中山先生在广州出任临时大总统时的总统府旧址，在1922年陈炯明叛变时被炮火夷为平地。1928年李济深和陈济棠大力组织筹建，广州人民和海外华侨共同集资鼎力相助，由著名建筑师吕彦直设计，终于在1931年10月完成重建。
+
+    纪念堂总体布局采用中国传统的宫殿式风格与近代西洋平面设计手法结合，整座建筑装饰堂皇富丽，富有浓郁的民族风格和中国传统建筑的艺术特色。中山纪念堂建筑面积为1.2万平方米，是一座八角形宫殿式建筑，由东西南北四面重檐拱托着中央高耸的八角亭顶，红柱黄墙衬着黄色的琉璃瓦，瓦面分高低四层，层层飞檐出卷。大堂正面檐悬挂着孙中山先生手写的“天下为公”的金字匾，檐下朱色大石柱拱托着彩绘的廊檐和具有拼花图案的天花板。大堂四周基座和石阶梯级为白色花岗岩，显得既庄重又典雅，是中国传统建筑的经典之作。
+
+    中山纪念馆自建成之日起还见证了广州的许多历史大事，其中，1945年9月，驻广州地区的日本侵略军在这里签字投降的历史事件最为引人瞩目。站在中山纪念堂宽广的广场上，依旧能感受到70多年前在这里举行的抗战胜利受降典礼的气息。　　
+
+    1945年9月7日，国民党第二方面军新一军进入广州，正式接防，日本在广东的日军兵力100600余人，开始解除武装，视为战俘。1945年9月16日上午10时，广东地区日军签字投降仪式在中山纪念堂举行。是日，纪念堂布置一新，正门高挂“驱逐敌虏，重整山河”的对联和一个巨大的红色“V”字，广场上飘扬着中美英苏四国国旗。中国第二方面军司令官张发奎上将在纪念堂内主持受降仪式，日军投降代表是第23军司令官田中久一、参谋长富田、海南岛日军指挥官代表肥厚。张发奎上将对日军投降代表田中久一等人宣布受降第一号命令，宣布取消日军第23军番号，随即开始进行日军集中缴械，战俘处理、接收及肃奸等工作。日军代表向中国受降官鞠躬致敬，低下了狂妄的头颅，由田中久一签署投降书。在日军投降书内，写有“如不执行命令或违犯命令，愿受惩罚”等语句，严厉要求日军服从命令，接受中国处置。整个受降典礼虽然只有短短的40分钟，却书写了广州历史上极其艰辛而光荣的一页！至广州审判战犯军事法庭审判结束，作恶华南的日军第23军司令官田中久一、宪兵队长重藤宪文，第130师团长近藤新八、第104师团长末藤知文、独立第23旅团长下河边宪、92步兵旅团长平野仪一等将官被判处死刑，先后在广州被枪决，大快人心。中山纪念堂身上铭刻着广州这座英雄城市与日本侵略者英勇抗争的沧桑和伟大的胜利永不褪色！
+
+    风走云飞，星流人逝，承载了无数历史记忆和情怀的广州中山纪念堂还在向来往的无数游客静静地诉说中孙中山先生伟大的一生和中国近代历史的沧桑变化。在这里的任何一个角落都能找到关于历史真相的蛛丝马迹，都能感受那革命年代的兵荒马乱，还有说不完道不尽说不尽的峥嵘岁月。“古之立大事者，不惟有超世之才，亦必有坚忍不拔之志”，相信人们在中山纪念堂缅怀历史的时候会有更深刻的体会。
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

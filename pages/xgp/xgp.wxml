@@ -1,0 +1,55 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 202rpx; top: 15rpx">许广平的少年时光</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 近代广州“许家”聚族而居，他们生活的地区被后人冠以“许地”。许氏家族，在近代中国历史上名噪一时，很多许氏后人在国共两党的党史上都曾留下浓墨重彩的一笔，为大众所知的人物有许崇智、许卓和许广平等，而许广平因为与大文豪鲁迅的关系而更加妇孺皆知。新中国成立后，许广平出生和成长之地列为“许广平故居”。许广平故居目前还是全广州名人故居中屈指可数的以妇女为代表的故居典型。
+
+    故居位于今天广州市越秀区北京路高第街的“许地”之内，门牌号为33号-34号，据许家后人回忆，在1917年许广平考取天津“直隶省立第一女子师范学校”预科之前的大部分时光都是在这里度过的，就是这方寸之间，留下了许广平的童年记忆和少年时光。
+
+    许广平（1898-1968），笔名景宋，广东番禺（今广州市越秀区）人，是许家第七房后裔，祖父许应鑅曾官任浙江巡抚，许父时家道中落。许广平是鲁迅先生第二任妻子，两人育有一子——周海婴，于2011年谢世。1917年许广平考入“直隶省立第一女子师范学校”预科，次年即入该师范学校本科学习；五四运动时，任天津女界爱国同志会会刊《醒世周刊》编辑；1921年直隶师范毕业后入小学任教，次年再考入国立北京女子高等师范学校国文系。
+
+    1925年3月，许广平初识鲁迅先生，并得到了帮助和护佑，同年8月，许广平因避难住进了鲁迅先生在西三条胡同的家中。1926年，从北京女子师范大学毕业（该校在1924年时改名为“国立北京女子师范大学”），8月，与鲁迅先生同车南下，鲁迅去厦门大学任教，许广平到广东省立女子师范学校任训育主任。1927年1月，鲁迅先生南下广州，任中山大学教务主任兼文学系主任，许广平担任其助教，期间，帮助鲁迅先生开办了芳草街四十四号的“北新书屋”，对新文学运动南下做出了贡献；同年10月3日开始，许广平与鲁迅先生开始共同生活。1930年，因中国自由运动大同盟和左翼作家联盟等原因，鲁迅先生遭到国民党浙江省党部通缉，许广平多次陪护鲁迅先生外出避难。1936年10月，鲁迅先生在上海病逝后，许广平致力于鲁先生文稿、书信等整理工作，最后在中国共产党的资助下于1938年编辑出版了六百万字的《鲁迅全集》（二十卷本）。
+
+    抗日战争爆发后，许广平积极投身于抗战之中，1941年12月，曾一度遭到日本宪兵的缉捕和关押，时间长达76天，备受折磨摧残，始终宁死不屈，郑振铎称其为“中华儿女们最圣洁的典型”；1945年12月，在上海与马叙伦等共同发起成立中国民主促进会，担任常务理事一职，1947年开始担任上海妇女联谊会主席；1928年10月，接受中共地下党的领导和安排，经香港秘密前往解放区。
+
+    建国后，许广平积极投身于国家建设，历任政务院副秘书长，人大常委会委员、全国妇联副主席、中国民主同盟中央常委、副主席等职位。晚年，将其珍藏的鲁迅先生的全部书籍、手稿及其他重要遗物无偿捐赠给国家，为保存鲁迅先生重要文物做出了不可磨灭的贡献。
+    
+    今日的“许地”，已不再是旧日模样，房屋的建设格局发生了重大变化，要在这些建筑群中细细找寻，才能发现许广平先生故居。从外观上看，该故居是独具岭南家居特色的两房合院的青砖建筑，砖木式结构，面积大约有一百平方，据许氏后人回忆，该建筑大约有160余年的历史，现在仍归许广平内侄及其后裔一脉居住。当年的大宅院也被分隔成许多小门户，屋脊上残留的垂兽装饰和带有镂刻或浮雕装饰的木雕门仍能看出当年大户人家的气派。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

@@ -1,0 +1,59 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 209rpx; top: 15rpx">“全总”首次亮相</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative">走在越秀南路上，忽一抬头，或许你就来到了这个有着鹅黄色外墙的庭院外边，它就是位于越秀南路89号的中华全国总工会旧址——惠州会馆。
+
+    在大树掩映下的拱形大门下方有一块红底的牌匾，上书“中华全国总工会旧址”。由大门进入前院，两侧分别建立了廖仲恺先生纪念碑和工农运动烈士纪念碑。中间有一座两层带地下室的砖木结构西式洋房，建筑面积为1746平方米，外墙为鹅黄色，间以白色饰线，非常悦目和具有活力。正面和南面均有2米多宽的塔司干式柱廊，有拱形及圆形窗，门廊处有石台阶。一楼两侧有水泥木扶手楼梯通往二楼。
+
+    据了解，该建筑建于清末民初，由当时的惠州富商所建，故称惠州会馆，历史上这里曾是援闽粤军司令部所在地。1924年国共合作后，这里的二楼成为国民党中央执行委员会常务委员会（国民党中央党部）办公的地方，其中工人部领导的广州工人代表会在楼下办公，中央大厅便是工人代表大会礼堂。
+
+    1925年5月，在中国共产党领导下，第二次全国劳动大会在广州召开，建立了中国工人阶级全国统一的工会领导机关——中华全国总工会（简称“全总”），制定和通过了中华全国总工会章程，选举了林伟民、刘少奇、邓中夏、苏兆征、李立三、李森、刘尔崧等25人为执行委员。执行委员会以林伟民为委员长，刘少奇为副委员长，邓中夏为秘书长。“全总”下设秘书处、总务处、组织部、宣传部、宣传教育委员会、监察委员会等机构，由刘少奇主持日常工作。
+
+    1925年10月，国民党中央党部由惠州会馆迁往大东路30号旧省议会（原广东咨议局，现广东革命历史博物馆），成立5个月的中华全国总工会随即迁入惠州会馆办公。当时，各部门的办公室，都是以木板间隔的。会议室、宣传部、监察委员会居中，组织部、秘书处和刘少奇的办公室靠南，宣传教育委员会靠北，省港罢工后成立的香港总工会也在此办公。首层仍为广州工人代表大会使用。
+
+    1925年8月20日上午，国民党中央执行委员廖仲恺被暗杀于惠州会馆楼前台阶上。1926年5月，第三次全国劳动大会和第二次广东省农民代表在会在广州联合举行。大会决定在这幢房子的前院左右两侧建碑，以纪念廖仲恺先生及在工农运动中牺牲的烈士。
+
+    “全总”成立后，大力发展工会组织组织，创办工人学校，培训工人干部，组织工人支援统一广东革命根据地的战争和北伐战争等，为推动全国工人运动第二次高潮的到来，作出了重要贡献。国民革命军攻占武汉后，为适应新的革命形势，1927年2月，“全总”北迁汉口，这里改为中华全国总工会广州办事处。
+
+    1927年“四一二”事变，国共决裂，后被封闭。中华人民共和国成立后，人民政府多次拨款对中华全国总工会旧址进行修缮，并辟为纪念馆，于1959年10月对外开放。1962年7月公布为广东省文物保护单位。“文化大革命”期间，纪念馆被迫关闭，旧址亦遭到破坏。1984年，政府再次拨款对旧址进行全面修缮，并于1985年5月1日“全总”成立六十周年纪念日重新开放，接待群众参观。1988年1月被公布为全国重点文物保护单位。
+    
+    如今，这里免费对外开放，逢周二至周日开放，逢周一闭馆，游客只要登记就可免费入内参观，在登记簿上登记前来参观的大多是以学生为主。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+

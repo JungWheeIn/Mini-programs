@@ -1,0 +1,59 @@
+<html>
+ <view class="whole" style="width: 100%; min-height: 0px; height: 100%; display: flex; box-sizing: border-box; left: 0rpx; top: 0rpx; position: fixed; align-items: center; justify-content: center">
+  
+</view>
+<head>
+  <text class="title" style="position: relative; left: 176rpx; top: 12rpx">毛泽东在这里当所长</text>
+ 
+</head>
+
+<body>
+  <!--
+  <view class="whole"
+    style="width: 750rpx; height: 1233rpx; display: flex; position: fixed; left: -15rpx; top: 139rpx; box-sizing: border-box">
+  </view>
+  -->
+</body>
+
+
+
+<view class="main_text"
+  style="width: 750rpx; min-height: 100px; height: 511rpx; display: block; box-sizing: border-box; left: -57rpx; top: 879rpx; position: relative">
+  <text class="main_text"
+    style="width: 85%; height: 1217rpx; display: block; box-sizing: border-box; left: 113rpx; top: -858rpx; position: relative"> 从越秀北路与中山四路交界处由东往西走，不远处就能看到一处红墙黄瓦、古色古香的建筑群，再往西走在位于中山四路42号便可看到一个花岗岩牌坊上有一块红底金字的牌匾，上书“毛泽东同志主办农民运动讲习所旧址”（简称农讲所）。
+
+    旧址原为番禺学宫（孔庙），始建于1370年（明洪武三年）。这座宏伟的古建筑从南至北由棂星门、泮池、拱桥、大成门、大成殿、崇圣殿和两侧的两廊、两庑、明伦堂等组成。
+
+    第一次国共合作形成后，国民革命运动迅猛发展。为了配合即将进行的北伐战争，发展全国农民运动，1926年5月至9月，毛泽东任所长的第六届农民运动讲习所在番禺学宫举办，周恩来、肖楚女、彭湃、恽代英等共产党员任教员。这届农讲所规模空前，共招收来自全国20个省区的学员327人。在办学上也独具特色，一是注重研究中国革命的基本问题，按省区将学生组成13个“农民问题研究会”，并拟出36个研究项目；二是重视调查研究，培养学员的实际工作能力，除要求学员填报调查表格外，还先后派出学员前往韶关、海丰等地实习。学员毕业后奔赴全国各地，领导农民运动，为中国革命做出了重要的贡献。农讲所旧址这一古老建筑成为具有重大历史意义的革命纪念地。
+
+    广州农民运动讲习所是第一次国共合作时期培养农民运动干部的学校，创办于1924年7月，至1925年底已办了5届。第一、第二届在越秀南路惠州会馆（现越秀南路89号）天台临时建筑开办。第三、第四、第五届在东皋大道1号（现东皋大道礼兴街6号），第六届在惠爱东路（现中山路）番禺学宫（现中山四路42号）。第一至第五届的主任依次是彭湃、罗绮园、阮啸仙、谭植棠、彭湃，第六届由毛泽东任所长。
+
+    第6届农民运动讲习所开设了政治、经济、文化、军事、历史等20门课程，毛泽东除担任所长，负责主持所务工作外，还亲自给学生讲授了《中国农民问题》、《农村教育》、《地理》三门课程。据了解，农讲所非常重视军事训练，每日清晨学员们都要排队扛枪喊口令，到东较场操练队列、投弹、刺杀，有时还到郊外进行军事演习。此外，毛泽东还主编了一套《农民问题丛刊》，一共出版了26种，为推动农民运动发展提供理论指导，是有关当年农民运动的重要文献。毛泽东亲自为该丛刊撰写了序言《国民运动与农民运动》，对农民运动理论作出了积极探索。
+
+    1953年，建立毛泽东同志主办农民运动讲习所旧址纪念馆，周恩来亲自为旧址题名。
+
+    1961年，国务院公布广州农民运动讲习所旧址为全国重点文物保护单位。
+    
+    如今，当年的所长办公室、教务部、军事训练部、课堂、学生宿舍等均按原貌布置。走入正门，跨过泮池上的石拱桥，就来到了大成门。当年农讲所的教务部和值星室、庶务部就分置在大成门的两旁。所长毛泽东的办公室兼卧室在东耳房，其室内设备十分简陋。东南角有一张木板单人床，床前放着一对湖南式的方形竹箱，是存放衣物和书籍的用具，在靠西边窗下，放置办公桌和椅子。办公桌上摆着学员的笔记本、书报和文稿以及墨砚、笔架、毛笔等文具。大成门的西耳房是图书馆。宽敞的大成殿为课堂，崇圣殿正间是膳堂，东间为军事训练部，前院的两庑和后院的两廊都是学员宿舍。同时，旧址内还辅有《广州农民运动讲习所陈列》展览，展示了第一届至第六届农讲所的历史。
+
+    此外，每年开学期间，越秀区60多所小学还会来此举行隆重的开笔礼，让小朋友们在这种爱国主义教育基地里也学习和感悟传统文化。
+
+
+  </text></view>
+
+
+</html>
+
+
+
+
+
+
+
+
+<!--
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -176rpx" src="../images/zsjnt (1).jpg" />
+<image style="position: relative; left: -45rpx; top: -186rpx; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box" src="../images/zsjnt (2).jpg" />
+<image style="position: relative; width: 803rpx; height: 1134rpx; display: inline-block; box-sizing: border-box; left: -45rpx; top: -195rpx" src="../images/zsjnt (3).jpg" />
+-->
+
